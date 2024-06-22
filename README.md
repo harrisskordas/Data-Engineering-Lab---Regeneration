@@ -34,9 +34,3 @@ Utilizing **Databricks** and **PySpark**, we developed a sales prediction model 
 ### 5. Visualization of Results Using Power BI
 The final phase involved visualizing the results and insights gained from the Data Warehouse and ML models using **Power BI**. This enabled stakeholders to make data-driven decisions through interactive and intuitive dashboards.
 
-## Conclusion
-
-This project significantly enhanced the data capabilities of **Cataschevastika**, providing them with a modern Data Warehouse, advanced analytical tools, and insightful visualizations. These improvements are expected to drive better business decisions and strategic planning.
-
-Feel free to customize or add any additional details to this report as needed.
-
