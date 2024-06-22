@@ -1,0 +1,31 @@
+total_products_ordered;custID;company name;prediction;big_client;mid_client;small_client;;
+225;1;ABC Construction;;1;0;0;;1 = TRUE
+214;2;XYZ Builders;;1;0;0;;0 = FALSE
+208;3;BuildItUp Ltd.;;0;1;0;;
+224;4;CementCo;;1;0;0;;
+237;5;Elite Builders;;1;0;0;;
+218;6;Concrete Creations;;1;0;0;;
+214;7;Solid Structures;;1;0;0;;
+209;8;StoneCraft;;0;1;0;;
+222;9;MegaConstruct;;1;0;0;;
+223;10;Everlast Builders;;1;0;0;;
+122;11;Stronghold Construction;;0;0;1;;
+127;12;Builders R Us;;0;0;1;;
+116;13;Titan Contractors;;0;0;1;;
+129;14;Golden Hammer Builders;;0;0;1;;
+147;15;Athenian Builders;;0;1;0;;
+126;16;BlueSky Builders;;0;0;1;;
+127;17;Mosaic Construction;;0;0;1;;
+121;18;Solid Foundations;;0;0;1;;
+126;19;Creative Concrete;;0;0;1;;
+136;20;Diamond Builders;;0;1;0;;
+127;21;Peak Construction;;0;0;1;;
+120;22;Sturdy Structures;;0;0;1;;
+118;23;Pegasus Builders;;0;0;1;;
+134;24;Evergreen Construction;;0;1;0;;
+132;25;Sunrise Builders;;0;1;0;;
+162;26;Azure Construction;;0;1;0;;
+192;27;Royal Builders;;0;1;0;;
+159;28;Harbor Construction;;0;1;0;;
+200;29;A1 Construction;;0;1;0;;
+184;30;Builders Unlimited;;0;1;0;;

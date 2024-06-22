@@ -1,0 +1,9 @@
+In this folder, you will find the necessary files for creating the OLTP database, the staging area, and the data warehouse, along with a file for creating the views.
+
+Specifically, in the oltp folder, there is the creation file, which creates the tables in the database, and the data_entry file, which populates the OLTP database.
+
+In the staging folder, there is the staging file for creating the staging area, and the staging_population file for inserting data.
+
+Additionally, in the datawarehouse folder, the dw file is used to create the tables, and the dw_population file is used to insert the data. Finally, the dw_views file will create the necessary views in the data warehouse.
+
+note that the staging population file is pulling the data from the oltp database via the staging_population file and respectively the dw is pulling the data from the staging db via the dw_populate.
