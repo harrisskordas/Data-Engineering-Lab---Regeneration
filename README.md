@@ -1,11 +1,7 @@
 # Data Engineering Lab, powered by TITAN and ReGeneration
 
 # Team Members:
-Georgos Valavanis
-Michael Voutyritsas
-Elisavet Kavoura
-Evaggelos Stergiou
-Charisis Skordas
+Georgos Valavanis, Michael Voutyritsas, Elisavet Kavoura, Evaggelos Stergiou, Charisis Skordas
 
 # Final Project Report: Data Warehouse Development for "Cataschevastika"
 
