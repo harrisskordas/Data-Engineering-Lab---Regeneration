@@ -1,1 +1,1 @@
-# Data Engineering Lab, powered by TITAN and Regeneration
+# Data Engineering Lab, powered by TITAN and ReGeneration
